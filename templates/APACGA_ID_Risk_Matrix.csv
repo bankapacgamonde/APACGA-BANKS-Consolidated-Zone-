@@ -1,0 +1,13 @@
+Risk Factor,Low Score,Medium Score,High Score,Selected Score,Notes
+Country or jurisdiction,1,3,5,,
+Customer or party type,1,3,5,,
+Product or service exposure,1,3,5,,
+Delivery channel,1,3,5,,
+PEP exposure,1,3,5,,
+Sanctions proximity,1,3,5,,
+Adverse media,1,3,5,,
+Ownership transparency,1,3,5,,
+Source of funds clarity,1,3,5,,
+Expected transaction activity,1,3,5,,
+Total Score,,,,,
+Risk Rating,"Low: 10-18","Medium: 19-34","High: 35-50",,

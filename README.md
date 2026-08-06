@@ -1,5 +1,8 @@
-# APACGA-BANKS-Consolidated-Zone-
-APACGAMONDE APACGAWORLD/ APACGA CGAMONDBANK# APACGAMONDE-Compliance-Legitimization
+# APACGA Banks Consolidated Zone
+
+APACGAMONDE APACGAWORLD / APACGA CGAMONDBANK
+
+## APACGAMONDE Compliance Legitimization
 
 **Framework for Legitimizing Unknown or New Processes**
 
@@ -16,10 +19,15 @@ APACGAMONDE, All Rights Reserved
 7. **Staff Training** — Roll out with training
 8. **Monitoring & Annual Review**
 
-## Templates (Add these files)
-- `SOP_Template.md`
-- `Risk_Assessment_Template.xlsx`
-- `Compliance_Checklist.md`
-- `Audit_Report_Template.md`
+## Digital System
+
+The APACGA Digital System provides the governance model, workflow lifecycle, required controls, metrics, and evidence pack for APACGAMONDE digital banking operations. See [`DIGITAL_SYSTEM.md`](DIGITAL_SYSTEM.md).
+
+## Templates
+
+- [`SOP_Template.md`](SOP_Template.md)
+- [`Risk_Assessment_Template.md`](Risk_Assessment_Template.md)
+- [`Compliance_Checklist.md`](Compliance_Checklist.md)
+- [`Audit_Report_Template.md`](Audit_Report_Template.md)
 
 This repository ensures every process — known or unknown — meets international banking standards.

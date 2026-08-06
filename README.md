@@ -23,3 +23,8 @@ APACGAMONDE, All Rights Reserved
 - `Audit_Report_Template.md`
 
 This repository ensures every process — known or unknown — meets international banking standards.
+
+## APACGAWORLD Bonds
+
+- See `APACGAWORLD_BONDS.md` for the APACGAWORLD Bonds governance, compliance controls, and lifecycle checklist.
+

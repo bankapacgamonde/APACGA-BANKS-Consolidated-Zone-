@@ -23,3 +23,8 @@ APACGAMONDE, All Rights Reserved
 - `Audit_Report_Template.md`
 
 This repository ensures every process — known or unknown — meets international banking standards.
+
+## APACGAMONDE Bonds
+
+Bond-related initiatives are governed by the [APACGAMONDE Bonds Framework](APACGAMONDE_BONDS.md), which defines the product documentation, regulatory classification, risk assessment, approval workflow, investor protection, lifecycle monitoring, and annual review controls required for bond programs.
+
